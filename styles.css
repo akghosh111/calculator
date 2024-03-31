@@ -61,3 +61,16 @@ body {
 .other-rows .equal:hover {
     background-color: plum;
 }
+.first-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.screen {
+    width: 300px;
+    border: 1px solid salmon;
+    height: 75px;
+    margin: 15px;
+}
