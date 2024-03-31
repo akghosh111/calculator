@@ -24,9 +24,18 @@ body {
     border-radius: 10px;
 }
 
+.other-rows .operator:hover {
+    background-color: paleturquoise;
+}
+
+
 .other-rows .decimal {
     border: 1px solid gold;
     border-radius: 10px;
+}
+
+.other-rows .decimal:hover {
+    background-color: palegoldenrod;
 }
 
 .first-row .clear {
@@ -34,7 +43,15 @@ body {
     border-radius: 10px;
 }
 
+.first-row .clear:hover{
+    background-color: palevioletred;
+}
+
 .other-rows .equal {
     border: 1px solid pink;
     border-radius: 10px;
+}
+
+.other-rows .equal:hover {
+    background-color: plum;
 }
