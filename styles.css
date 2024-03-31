@@ -7,3 +7,34 @@ body {
     height: 100vh;
 }
 
+.btn {
+    height: 75px;
+    width: 75px;
+    margin: 15px;
+    font-size: 40px;
+}
+
+.other-rows .number {
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+}
+
+.other-rows .operator {
+    border: 1px solid steelblue;
+    border-radius: 10px;
+}
+
+.other-rows .decimal {
+    border: 1px solid gold;
+    border-radius: 10px;
+}
+
+.first-row .clear {
+    border: 1px solid violet;
+    border-radius: 10px;
+}
+
+.other-rows .equal {
+    border: 1px solid pink;
+    border-radius: 10px;
+}
