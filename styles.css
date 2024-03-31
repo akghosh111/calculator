@@ -19,6 +19,12 @@ body {
     border-radius: 10px;
 }
 
+
+.other-rows .number:hover {
+    background-color: palegreen;
+}
+
+
 .other-rows .operator {
     border: 1px solid steelblue;
     border-radius: 10px;
